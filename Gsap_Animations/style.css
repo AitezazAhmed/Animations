@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+.box1 {
+    width: 15vw;
+    height: 20vh;
+    background-color: red;
+    left: 3%;
+    top: 3%;
+}
+
+.box2 {
+    width: 15Vw;
+    height: 20vh;
+    background-color: red;
+    left: 3%;
+    top: 3%;
+}
+.box3{
+    width: 15vw;
+    height: 20vh;
+    background-color: rgb(0, 255, 234);
+    left: 3%;
+    top: 3%;
+    margin-top: 10px;
+}
+.box4{
+    width: 15vw;
+    height: 20vh;
+    background-color: rgb(0, 255, 110);
+    left: 3%;
+    top: 3%;
+    margin-top: 10px;
+}
+.box5{
+    width: 15vw;
+    height: 20vh;
+    background-color: rgb(136, 0, 255);
+    left: 3%;
+    top: 3%;
+    margin-top: 10px;
+}
+.boxs{
+    display: flex;
+    gap: 30%;
+   
+}
+h1{
+    color: azure;
+    font-size: 30px;
+}
